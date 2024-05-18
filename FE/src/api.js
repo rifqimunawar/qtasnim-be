@@ -5,7 +5,7 @@ const urlMaster = 'http://127.0.0.1:8000'
 
 // ================================ CATATAN =================
 // ketika saya mengubah urlmaster dengan backend yang ada di hosting
-// ada beberapa error yang tidak dapat saya selesaikan, jadi untuk sementara
+// ada beberapa beberapa data yang tidak terpanggil, jadi untuk sementara
 // backendnya dapat menggunakan localhost saja
 
 const getBarang = async () => {

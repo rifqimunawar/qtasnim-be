@@ -32,3 +32,4 @@ Route::post('barang', [BarangController::class, 'store']);
 Route::get('barang/{id}', [BarangController::class, 'show']);
 Route::put('barang/{id}/update', [BarangController::class, 'update']);
 Route::delete('barang/{id}', [BarangController::class, 'destroy']);
+
